@@ -45,7 +45,7 @@ Imagine que você é um estudante, prestes a escrever seu TCC. Você possui uma 
 
 ## 📂 Estrutura do Projeto
 
-Selecione alguns artigos em pdf para análise
+Selecione alguns artigos em pdf para análise. Escolhi artigos relacionado à Business Intelligence
 
 --- 
 ## ☁️ Criação do grupo de recurso e recurso
@@ -56,4 +56,6 @@ Em Azure vamos criar um grupo de recurso e posteriormente criar o recurso Azure 
 O Azure AI Foundry é uma plataforma para desenvolvimento de IA no Microsoft Azure. Embora você possa provisionar recursos individuais dos serviços de IA do Azure e criar aplicativos que os consomem sem ele, a organização do projeto, o gerenciamento de recursos e os recursos de desenvolvimento de IA do Azure AI Foundry torna a maneira recomendada de criar todas as soluções menos simples.
 
 O Azure AI Foundry fornece o portal do Azure AI Foundry, uma interface visual baseada na Web para trabalhar com projetos de IA. Ele também fornece o SDK do Azure AI Foundry, que você pode usar para criar soluções de IA programaticamente.
+
+![azure](https://github.com/David8Fernando/Criando-Chatbot-Baseado-em-conte-dos-de-PDF/img/img1.png)
 
