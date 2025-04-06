@@ -57,5 +57,5 @@ O Azure AI Foundry é uma plataforma para desenvolvimento de IA no Microsoft Azu
 
 O Azure AI Foundry fornece o portal do Azure AI Foundry, uma interface visual baseada na Web para trabalhar com projetos de IA. Ele também fornece o SDK do Azure AI Foundry, que você pode usar para criar soluções de IA programaticamente.
 
-![azure](https://github.com/David8Fernando/Criando-Chatbot-Baseado-em-conte-dos-de-PDF/img/img1.png)
+![azure](https://github.com/David8Fernando/Criando-Chatbot-Baseado-em-conte-dos-de-PDF/blob/main/img/img1.png)
 
