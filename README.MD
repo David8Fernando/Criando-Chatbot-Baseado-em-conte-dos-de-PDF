@@ -1,0 +1,47 @@
+# 🧠 Otimizando Modelos de Linguagem para Aplicações Generativas de IA com Azure AI Foundry
+
+Este repositório é fruto do desafio prático da DIO com foco em **IA Generativa**, **Azure AI Foundry** e **construção de um chatbot baseado em PDFs**. Aqui você encontrará uma aplicação completa que permite fazer perguntas com base no conteúdo de documentos PDF, utilizando conceitos como **RAG (Retrieval Augmented Generation)**, **engenharia de prompt** e **fine-tuning**.
+
+---
+
+## 📌 Visão Geral do Projeto
+
+Neste projeto, você irá:
+
+✅ Explorar modelos do catálogo do Azure AI Foundry  
+✅ Aprender a otimizá-los com **engenharia de prompt**  
+✅ Aplicar técnicas como **RAG** para melhorar as respostas com base em dados reais  
+✅ Realizar **fine-tuning** dos modelos para um domínio específico  
+✅ Avaliar o desempenho dos modelos diretamente no Azure AI Foundry  
+✅ Criar um **chatbot interativo com base no conteúdo de arquivos PDF**
+
+---
+
+## 📚 Cenário
+
+Imagine que você é um estudante, prestes a escrever seu TCC. Você possui uma série de artigos científicos em PDF e precisa extrair informações e cruzar ideias de maneira eficiente. A solução? Criar um **chatbot inteligente que interpreta os PDFs e responde com base em seu conteúdo**
+
+---
+
+## 🎯 Objetivos
+
+- [x] Carregar arquivos PDF com informações importantes  
+- [x] Indexar o conteúdo com busca vetorial e embeddings  
+- [x] Usar IA para responder perguntas contextuais baseadas nos documentos  
+- [x] Criar um chat interativo funcional e customizável
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Azure AI Foundry**
+- **Python**
+- **LangChain**
+- **FAISS ou Azure Cognitive Search**
+- **Streamlit / Gradio** (opcional para interface do chat)
+- **PyMuPDF** ou **PDFplumber** (para leitura dos PDFs)
+
+---
+
+## 📂 Estrutura do Projeto
+
